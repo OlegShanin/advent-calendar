@@ -1,0 +1,82 @@
+import React from "react";
+
+const Calendar: React.FC = () => {
+    return (
+        <ul>
+            <li>
+                <div>1</div>
+            </li>
+            <li>
+                <div>2</div>
+            </li>
+            <li>
+                <div>3</div>
+            </li>
+            <li>
+                <div>4</div>
+            </li>
+            <li>
+                <div>5</div>
+            </li>
+            <li>
+                <div>6</div>
+            </li>
+            <li>
+                <div>7</div>
+            </li>
+            <li>
+                <div>8</div>
+            </li>
+            <li>
+                <div>9</div>
+            </li>
+            <li>
+                <div>10</div>
+            </li>
+            <li>
+                <div>11</div>
+            </li>
+            <li>
+                <div>12</div>
+            </li>
+            <li>
+                <div>13</div>
+            </li>
+            <li>
+                <div>14</div>
+            </li>
+            <li>
+                <div>15</div>
+            </li>
+            <li>
+                <div>16</div>
+            </li>
+            <li>
+                <div>17</div>
+            </li>
+            <li>
+                <div>18</div>
+            </li>
+            <li>
+                <div>19</div>
+            </li>
+            <li>
+                <div>20</div>
+            </li>
+            <li>
+                <div>21</div>
+            </li>
+            <li>
+                <div>22</div>
+            </li>
+            <li>
+                <div>23</div>
+            </li>
+            <li>
+                <div>24</div>
+            </li>
+        </ul>
+    )
+}
+
+export default Calendar;
