@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "day": 1,
+    "color": "#FFDDC1",
+    "gift": "Chocolate"
+  },
+  {
+    "id": "2",
+    "day": 2,
+    "color": "#FFABAB",
+    "gift": "Toys"
+  },
+  {
+    "id": "3",
+    "day": 3,
+    "color": "#FFC3A0",
+    "gift": "Book"
+  },
+  {
+    "id": "4",
+    "day": 4,
+    "color": "#FF677D",
+    "gift": "Game"
+  },
+  {
+    "id": "5",
+    "day": 5,
+    "color": "#D4A5A5",
+    "gift": "Socks"
+  },
+  {
+    "id": "6",
+    "day": 6,
+    "color": "#392F5A",
+    "gift": "Candles"
+  },
+  {
+    "id": "7",
+    "day": 7,
+    "color": "#7D7F7D",
+    "gift": "Stationery"
+  },
+  {
+    "id": "8",
+    "day": 8,
+    "color": "#3BCEAC",
+    "gift": "Gift Card"
+  },
+  {
+    "id": "9",
+    "day": 9,
+    "color": "#6A0572",
+    "gift": "Puzzle"
+  },
+  {
+    "id": "10",
+    "day": 10,
+    "color": "#F4A261",
+    "gift": "Mug"
+  },
+  {
+    "id": "11",
+    "day": 11,
+    "color": "#E63946",
+    "gift": "Bath Bomb"
+  },
+  {
+    "id": "12",
+    "day": 12,
+    "color": "#F1FAEE",
+    "gift": "Keychain"
+  },
+  {
+    "id": "13",
+    "day": 13,
+    "color": "#B9D8C2",
+    "gift": "Hat"
+  },
+  {
+    "id": "14",
+    "day": 14,
+    "color": "#EAE2B7",
+    "gift": "Scarf"
+  },
+  {
+    "id": "15",
+    "day": 15,
+    "color": "#FFABAB",
+    "gift": "Socks"
+  },
+  {
+    "id": "16",
+    "day": 16,
+    "color": "#FFC3A0",
+    "gift": "Pen"
+  },
+  {
+    "id": "17",
+    "day": 17,
+    "color": "#FF677D",
+    "gift": "Notebook"
+  },
+  {
+    "id": "18",
+    "day": 18,
+    "color": "#D4A5A5",
+    "gift": "Cupcake"
+  },
+  {
+    "id": "19",
+    "day": 19,
+    "color": "#392F5A",
+    "gift": "Art Supplies"
+  },
+  {
+    "id": "20",
+    "day": 20,
+    "color": "#7D7F7D",
+    "gift": "Sunglasses"
+  },
+  {
+    "id": "21",
+    "day": 21,
+    "color": "#3BCEAC",
+    "gift": "Phone Holder"
+  },
+  {
+    "id": "22",
+    "day": 22,
+    "color": "#6A0572",
+    "gift": "Calendar"
+  },
+  {
+    "id": "23",
+    "day": 23,
+    "color": "#F4A261",
+    "gift": "Jewelry"
+  },
+  {
+    "id": "24",
+    "day": 24,
+    "color": "#E63946",
+    "gift": "Special Gift"
+  }
+]
