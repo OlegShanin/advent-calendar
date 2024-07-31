@@ -1,13 +1,12 @@
-import React from 'react';
-import Calendar from './Calendar'
+  import React from 'react';
+  import Calendar from './Calendar/Calendar'
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Advent Calendar</h1>
-      <Calendar />
-    </div>
-  );
-}
+  function App() {
+    return (
+      <div className="App">
+        <Calendar />
+      </div>
+    );
+  }
 
-export default App;
+  export default App;
